@@ -1,5 +1,5 @@
-🇫🇷 
-# Bienvenue ! 🤗
+
+# 🇫🇷 Bienvenue ! 🤗
 
 Bienvenue sur mon GitHub ! Si tu es arrivé ici, c'est que tu partages peut-être ma passion pour la data.
 
@@ -8,8 +8,8 @@ Python, SQL (MySQL, Postgres, SQL Server), NoSQL, R, CSS, BigQuery, Tableau, Loo
 
 Merci de ta visite et n'hésite pas à explorer mes dépôts en cliquant [ici](https://github.com/sarahbdji/portfolio.git)
 
-🇬🇧🇺🇸 
-# Welcome! 🤗
+
+# 🇬🇧🇺🇸 Welcome! 🤗
 
 Welcome to my GitHub! If you're here, it might be because you share my passion for data. 
 
